@@ -150,4 +150,4 @@ Choose a license for your project (for example, [MIT](https://choosealicense.com
 
 ## 👤 Author
 
-Created by **Luiz**.
+Created by **Luiz Alcantara**.
